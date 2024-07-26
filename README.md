@@ -1,4 +1,4 @@
-# API | DinDin
+# API | EasyBank
 
 API RESTful de um sistema que contém recursos que auxiliam no gerenciamento financeiro do usuário, uma forma eficaz de manter o equilíbrio entre suas receitas e despesas.
 
