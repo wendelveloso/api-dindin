@@ -3,7 +3,7 @@
 API RESTful que contém recursos de um sistema bancário, possibilitando a criação e gerenciamento de contas e transações básicas de depósito, saque e transferências.
 
 <br>
-<img align=center src="img/img-readme.png">
+<img align=center src="banner-repository-easybank.png">
 
 ## Como rodar
 
