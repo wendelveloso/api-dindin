@@ -1,6 +1,6 @@
 # API | EasyBank
 
-API RESTful de um sistema que contém recursos que auxiliam no gerenciamento financeiro do usuário, uma forma eficaz de manter o equilíbrio entre suas receitas e despesas.
+API RESTful que contém recursos de um sistema bancário, possibilitando a criação e gerenciamento de contas e transações básicas de depósito, saque e transferências.
 
 <br>
 <img align=center src="img/img-readme.png">
